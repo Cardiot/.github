@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 
@@ -11,5 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Note
-Purpose of this Organisation Repository to maintain and develop for future my Final Year College Project. This project uses IoT and Machine Learning with Web and Mobile Application Domain. So, I had to keep it in a separate space for more maintaining and future collaboration.
+## Note
+Purpose of this Organisation Repository to maintain and develop for future my Final Year College Project. This project uses IoT and Machine Learning with Web, Mobile and Desktop Application. So, I had to keep it in a separate space for more maintaining and future collaboration.
+
+This project is now a hobby project. Where I am extending all it's feature and will try to deploy at no cost.
